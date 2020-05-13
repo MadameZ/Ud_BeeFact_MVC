@@ -19,7 +19,6 @@ class MainViewController: UIViewController {
     
     /// CG signifie Cor Graphic c'est à dire qu'il s'occupe du design
     var radius: CGFloat = 20
-    
     var currentIndex = 0
     
     override func viewDidLoad() {
